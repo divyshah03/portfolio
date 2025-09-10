@@ -18,7 +18,7 @@ export default function Hero({
   return (
     <header id="hero">
       <section className="header-container">
-        <Image className="profile-image" src="/svg/profile-image.svg" alt="Profile" width={150} height={150} />
+        <Image className="profile-image" src="/assets/profile/profile-image.svg" alt="Profile" width={150} height={150} />
         <h1>Hi I'm {name}</h1>
         <div className="content-text">
           {titleLines.map((line, idx) => (

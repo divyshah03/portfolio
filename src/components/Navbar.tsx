@@ -14,7 +14,7 @@ export default function Navbar() {
         {/* Logo */}
         <h1 id="logo">
           <a href="/">
-            <img src="/svg/logo.png" alt="Your Logo" />
+            <img src="/assets/logo.png" alt="Your Logo" />
           </a>
         </h1>
 

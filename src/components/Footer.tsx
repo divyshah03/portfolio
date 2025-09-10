@@ -5,11 +5,11 @@ export default function Footer() {
       <div className="container">
         <a href="mailto:communitypro47@gmail.com">communitypro47@gmail.com</a>
         <div className="social">
-          <a href="#" target="_blank" rel="noreferrer"><img src="/icons/facebook-icon.svg" alt="Facebook" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="/icons/twitter-icon.svg" alt="Twitter" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="/icons/linkedin-icon.svg" alt="Linkedin" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="/icons/github-icon.svg" alt="GitHub" /></a>
-          <a href="#" target="_blank" rel="noreferrer"><img src="/icons/hashnode-icon.svg" alt="Hashnode" /></a>
+          <a href="#" target="_blank" rel="noreferrer"><img src="/assets/facebook-icon.svg" alt="Facebook" /></a>
+          <a href="#" target="_blank" rel="noreferrer"><img src="/assets/twitter-icon.svg" alt="Twitter" /></a>
+          <a href="#" target="_blank" rel="noreferrer"><img src="/assets/linkedin-icon.svg" alt="Linkedin" /></a>
+          <a href="#" target="_blank" rel="noreferrer"><img src="/assets/github-icon.svg" alt="GitHub" /></a>
+          <a href="#" target="_blank" rel="noreferrer"><img src="/assets/hashnode-icon.svg" alt="Hashnode" /></a>
         </div>
         <div className="attribution">
           <a
