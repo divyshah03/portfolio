@@ -3,7 +3,7 @@ export default function Hero() {
       <header id="hero">
         {/* Navbar can be moved into its own component */}
         <section className="header-container">
-          <img className="profile-image" src="/profile-image.svg" alt="Profile" />
+          <img className="profile-image" src="/svg/profile-image.svg" alt="Profile" />
           <h1>Hi I'm Franklin</h1>
           <div className="content-text">
             <h2>Building digital</h2>
