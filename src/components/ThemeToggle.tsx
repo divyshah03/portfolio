@@ -23,8 +23,8 @@ export default function ThemeToggle() {
     <div className="theme-switch">
       <input type="checkbox" id="switch" checked={theme === "dark"} onChange={switchTheme} />
       <label className="toggle-icons" htmlFor="switch">
-        <img className="moon" src="/moon.svg" alt="moon" />
-        <img className="sun" src="/sun.svg" alt="sun" />
+        <img className="moon" src="/svg/moon.svg" alt="moon" />
+        <img className="sun" src="/svg/sun.svg" alt="sun" />
       </label>
     </div>
   )
